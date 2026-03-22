@@ -1,0 +1,20 @@
+{
+  "short_name": "Calculator",
+  "name": "Scientific Calculator Utility",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/calc/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/calc/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#ffffff"
+}
